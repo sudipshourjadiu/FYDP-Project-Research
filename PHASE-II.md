@@ -1,9 +1,3 @@
-Sure, let’s turn this into a clear, detailed “How to implement” section you could almost drop into your report, with all the buzzwords explained as we go.
-
-I’ll describe it in **implementation steps**, from camera → edge → on-prem → blockchain, and explain every technical term at first use.
-
----
-
 ## 1. System components
 
 We will implement the system using three main components:
